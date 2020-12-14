@@ -1,6 +1,6 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ahbether&show_icons=true"/>](https://github.com/ahbether/)
 
-<a href="https://www.linkedin.com/in/ahbether
+<a href="https://www.linkedin.com/in/ahbether">
   <img align="left" alt="Bether's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ahbether">
